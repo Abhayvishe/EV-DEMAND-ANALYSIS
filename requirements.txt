@@ -1,1 +1,29 @@
-# Placeholder file
+
+Generic Python Data Analytics + Dashboard Stack
+
+pandas
+numpy
+plotly
+dash
+dash-bootstrap-components
+scikit-learn
+matplotlib
+seaborn
+geopandas
+folium
+requests
+python-dotenv
+
+
+If you're using Streamlit instead of Dash, replace Dash with:
+
+streamlit
+
+
+If your project uses Power BI Python scripts, use:
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
